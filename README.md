@@ -1,0 +1,1 @@
+Rim is a memoir app where you can note special moments and moods. Its still on the development phase. 
