@@ -1,4 +1,4 @@
-# Rim is a memoir app where you can note special moments and moods. Its still on the development phase.
+# Rim is a memoir app where you can take notes about special moments and moods and save them.
 # 1. 
 ![simulator screen shot may 20 2017 5 50 05 pm](https://cloud.githubusercontent.com/assets/7582368/26279542/edbd65bc-3d84-11e7-92ab-a3284950d529.png)
 # 2. 
